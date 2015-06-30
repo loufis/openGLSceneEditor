@@ -24,8 +24,8 @@ methods in the scene class.
 
 ####Screenshot Samples:
 
-!(Loading a new model into the scene)[http://imgur.com/wncPjDQ.png]
-!(Orthographic view)[http://imgur.com/dBtyoAZ.png]
-!(Perspective view)[http://imgur.com/X6YgoOf.png]
-!(Specular light 1)[http://imgur.com/u8mGHBr.png]
-!(Specular light 2)[http://imgur.com/nRGDBb9.png]
+![Loading a new model into the scene](http://imgur.com/wncPjDQ.png)
+![Orthographic view](http://imgur.com/dBtyoAZ.png)
+![Perspective view](http://imgur.com/X6YgoOf.png)
+![Specular light 1](http://imgur.com/u8mGHBr.png)
+![Specular light 2](http://imgur.com/nRGDBb9.png)
