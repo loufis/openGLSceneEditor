@@ -3,7 +3,7 @@
 - This project consists of 3 main classes that encapsulate it's functionality:
 
 	- louModel: 
-			- A class that parses and stores data about a model from any obj file, including normals and texture coordinates. If the normals aren't present in the file, it takes the surface normal as the normal for each vertex. It also has a matrix that stores any transformations that are to be done on this model alone, such as translation.
+			A class that parses and stores data about a model from any obj file, including normals and texture coordinates. If the normals aren't present in the file, it takes the surface normal as the normal for each vertex. It also has a matrix that stores any transformations that are to be done on this model alone, such as translation.
 			
 			- translateToCenter() loads the transformation matrix with one that translates the object's center to the origin of the world space.
 
